@@ -13,7 +13,7 @@ public abstract class ListItem {
     public abstract void setNext();
     public abstract void previous();
     public abstract void setPrevious();
-    private void compareTo();
+//    private void compareTo();
 
 
 }
